@@ -99,6 +99,6 @@ Read **Web Toolkit Documentation** [https://doc.smartflomeet.ttns.in/developer/v
 
 ## 3 Support
 
-EnableX provides a library of Documentations, How-to Guides, and Sample Codes to help software developers, interested in embedding RTC in their applications. 
+We provide a library of Documentations, How-to Guides, and Sample Codes to help software developers, interested in embedding RTC in their applications. 
 
 Refer to the **Complete Developer’s Guide** [https://doc.smartflomeet.ttns.in/developer/] for more details. 
