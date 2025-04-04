@@ -83,7 +83,7 @@
         </section>
       </div>
     </div>
-    <div class="footer">&copy; vCloudx Pte. Ltd. All Rights Reserved.</div>
+    <div class="footer">&copy; 2025 Tata Teleservices Ltd.</div>
   </div>
 </template>
 
